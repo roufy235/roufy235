@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Multive - PHP Web Framework](https://github.com/roufy235/Multive)
+- 🔭 I’m currently developing on [Multive - PHP Web Framework](https://github.com/roufy235/Multive)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with SSR/SSG
