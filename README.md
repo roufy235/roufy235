@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?color=f36b2c&label=covirtue.com&style=for-the-badge&url=https%3A%2F%2Fcovirtue.com)](https://covirtue.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/roufy235?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Froufy235&screen_name=roufy235)
 
-# I'm a Web and Mobile App Developer!!
+### I'm a Web and Mobile App Developer!!
 
 - 🔭 I’m currently developing [Multive - PHP Web Framework](https://github.com/roufy235/Multive)
 - 👯 I’m looking to collaborate on Github
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to dance and code
 
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="covirtue.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="covirtue | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
