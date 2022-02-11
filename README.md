@@ -40,9 +40,9 @@
 
 - 🔭 I’m currently developing [Multive - PHP Web Framework](https://github.com/roufy235/Multive)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.
 - 💼 &nbsp; Android developer(Kotlin) and full stack web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in web3.0 .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
