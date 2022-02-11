@@ -39,7 +39,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently developing [Multive - PHP Web Framework](https://github.com/roufy235/Multive)
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.
 - 💼 &nbsp; Android developer(Kotlin) and full stack web developer.
 - 🌱 &nbsp; Enthusiast in web3.0 .
