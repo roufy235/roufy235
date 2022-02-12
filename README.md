@@ -10,7 +10,6 @@
 - 🤔 &nbsp; Exploring new technologies and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.
 - 💼 &nbsp; Android developer(Kotlin) and full stack web developer.
-- 🌱 &nbsp; Enthusiast in web3.0 .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <br />
