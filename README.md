@@ -9,7 +9,7 @@
 - 🔭 I’m the creator of the open source framework [Multive - PHP Web Framework](https://github.com/roufy235/Multive)
 - 🤔 &nbsp; Exploring new technologies and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.
-- 💼 &nbsp; Android developer(Kotlin) and full stack web developer.
+- 💼 &nbsp; Mobile App developer(Kotlin/Flutter) and full stack web developer.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <br />
