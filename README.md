@@ -14,9 +14,6 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=roufy235&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=f36b2c&icon_color=f36b2c&text_color=D3D3D3&bg_color=0,000000,130F40" alt="roufy235's Github Stats">
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roufy235&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/roufy235/github-readme-stats)
 
 ## 💻 Tech Stack
@@ -34,6 +31,12 @@
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roufy235&theme=vue"/>
+</p>
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=roufy235&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=roufy235&theme=vue" />
 </p>
 
 #### Connect with me:
