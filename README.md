@@ -5,13 +5,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/roufy235?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Froufy235&screen_name=roufy235)
 
 <h3> 👨🏻‍💻 About Me </h3>
-- 😄 Pronouns: He/His.
-- 🔭 &nbsp; I’m the creator of the open source framework [Multive - PHP Web Framework](https://github.com/roufy235/Multive).
-- 🤔 &nbsp; Exploring new technologies and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.
-- 💼 &nbsp; Mobile App developer(Kotlin/Flutter) and full stack web developer.
-- 📫 &nbsp; How to reach me: Check social links below.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 😄 Pronouns: He/His. <br>
+- 🔭 &nbsp; I’m the creator of the open source framework [Multive - PHP Web Framework](https://github.com/roufy235/Multive).<br>
+- 🤔 &nbsp; Exploring new technologies and quick hacks.<br>
+- 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.<br>
+- 💼 &nbsp; Mobile App developer(Kotlin/Flutter) and full stack web developer.<br>
+- 📫 &nbsp; How to reach me: Check social links below.<br>
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br>
 
 ## 💻 Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-4f5b93?style=for-the-badge&logo=PHP&logoColor=white)
