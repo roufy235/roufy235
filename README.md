@@ -21,7 +21,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=roufy235&theme=vue"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=roufy235&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
