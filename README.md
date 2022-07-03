@@ -31,6 +31,11 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=roufy235&theme=minimal"/>
 </p>
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roufy235&theme=vue"/>
+</p>
+
 #### Connect with me:
 
 [<img align="left" alt="covirtue.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
