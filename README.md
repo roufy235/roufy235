@@ -19,6 +19,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roufy235&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/roufy235/github-readme-stats)
 
+## 💻 Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 #### Connect with me:
 
