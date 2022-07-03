@@ -4,10 +4,6 @@
 [![Website](https://img.shields.io/website?color=f36b2c&label=covirtue.com&style=for-the-badge&url=https%3A%2F%2Fcovirtue.com)](https://covirtue.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/roufy235?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Froufy235&screen_name=roufy235)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roufy235&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
-
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m the creator of the open source framework [Multive - PHP Web Framework](https://github.com/roufy235/Multive)
