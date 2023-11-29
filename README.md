@@ -8,7 +8,7 @@
 - 🔭 &nbsp; I am the innovator behind Multive, an open-source framework. [Multive - PHP Web Framework](https://github.com/roufy235/Multive).<br>
 - 🤔 &nbsp; Constantly delving into emerging technologies and employing rapid hacks.<br>
 - 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.<br>
-- 💼 &nbsp; Proficient in Mobile App development (Kotlin/Flutter) and full-stack web development.<br>
+- 💼 &nbsp; Proficient in Mobile App development(Kotlin/Flutter) and Full-stack web development.<br>
 - 📫 &nbsp; Reach out to me through the provided social links below.<br>
 - ☕ &nbsp;  I firmly believe that a perfectly brewed cup of coffee can be the ultimate remedy for stress. <br>
 
