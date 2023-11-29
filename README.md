@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/roufy235?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Froufy235&screen_name=roufy235)
 
 ## 👨🏻‍💻 About Me
-- 🔭 &nbsp; I am the innovator behind Multive, an open-source [Multive - PHP Web Framework](https://github.com/roufy235/Multive).<br>
+- 🔭 &nbsp; I am the innovator behind Multive, an open-source framework. [Multive - PHP Web Framework](https://github.com/roufy235/Multive).<br>
 - 🤔 &nbsp; Constantly delving into emerging technologies and employing rapid hacks.<br>
 - 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.<br>
 - 💼 &nbsp; Proficient in Mobile App development (Kotlin/Flutter) and full-stack web development.<br>
